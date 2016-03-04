@@ -1,0 +1,19 @@
+body
+{
+    font-family         : Arial, sans-serif;
+    background-color    : #F5DA81;
+	width               : 1000px;
+	margin              : auto;
+	background-position : top;
+	background-repeat   : no-repeat ;
+}
+
+#recherche
+{
+	width : 300px;
+}
+
+#test
+{
+	padding-left  : 20px;
+}
